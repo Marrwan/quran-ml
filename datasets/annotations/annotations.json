@@ -1,0 +1,44 @@
+[
+    {
+        "file_name": "/Users/abdulbasitalabi/Documents/codes/quran_learning_app/datasets/001.wav",
+        "surah": "001",
+        "ayah": "1",
+        "transcription": "بسم الله الرحمن الرحيم"
+    },
+    {
+        "file_name": "/Users/abdulbasitalabi/Documents/codes/quran_learning_app/datasets/001.wav",
+        "surah": "001",
+        "ayah": "2",
+        "transcription": "الحمد لله رب العالمين"
+    },
+    {
+        "file_name": "/Users/abdulbasitalabi/Documents/codes/quran_learning_app/datasets/001.wav",
+        "surah": "001",
+        "ayah": "3",
+        "transcription": "الرحمن الرحيم"
+    },
+    {
+        "file_name": "/Users/abdulbasitalabi/Documents/codes/quran_learning_app/datasets/001.wav",
+        "surah": "001",
+        "ayah": "4",
+        "transcription": "مالك يوم الدين"
+    },
+    {
+        "file_name": "/Users/abdulbasitalabi/Documents/codes/quran_learning_app/datasets/001.wav",
+        "surah": "001",
+        "ayah": "5",
+        "transcription": "إياك نعبد وإياك نستعين"
+    },
+    {
+        "file_name": "/Users/abdulbasitalabi/Documents/codes/quran_learning_app/datasets/001.wav",
+        "surah": "001",
+        "ayah": "6",
+        "transcription": "اهدنا الصراط المستقيم"
+    },
+    {
+        "file_name": "/Users/abdulbasitalabi/Documents/codes/quran_learning_app/datasets/001.wav",
+        "surah": "001",
+        "ayah": "7",
+        "transcription": "صراط الذين أنعمت عليهم غير المغضوب عليهم ولا الضالين"
+    }
+]
